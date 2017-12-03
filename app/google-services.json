@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23412395958",
+    "firebase_url": "https://amrapaliinstitute-8b322.firebaseio.com",
+    "project_id": "amrapaliinstitute-8b322",
+    "storage_bucket": "amrapaliinstitute-8b322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23412395958:android:d394cbb178c71f91",
+        "android_client_info": {
+          "package_name": "in.ac.amrapali.amrapaliinstitute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23412395958-kr6iikssi26el4980v0925l3j724vdou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.amrapali.amrapaliinstitute",
+            "certificate_hash": "37ac7916aa43598161940da9591cab815bf7f835"
+          }
+        },
+        {
+          "client_id": "23412395958-4ahf72ii6c9jhvq5dcct0pi2p3pfmf19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRsDyfFzsh3t-u9_OzKvvOnt6bZpaXs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23412395958-4ahf72ii6c9jhvq5dcct0pi2p3pfmf19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

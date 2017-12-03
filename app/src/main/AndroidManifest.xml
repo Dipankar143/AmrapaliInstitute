@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.ac.amrapali.amrapaliinstitute">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/amrapali_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/amrapali_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".about" />
+        <activity android:name=".noticeBoard" />
+        <activity android:name=".noticeBoard2" />
+        <activity android:name=".notification" />
+        <activity android:name=".only_text_noti" />
+        <activity android:name=".photoGallery"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4ace81</color>
+    <color name="colorPrimaryDark">#3bbe71</color>
+    <color name="colorAccent">#000000</color>
+    <color name="sec">#70c77b</color>
+    <color name="first">#70c7be</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="upper_text">#0096A6</color>
+    <color name="launcher_text">#4288c1</color>
+    <color name="noti">#1abc9c</color>
+    <color name="time">#3d9bc4</color>
+    <color name="gallery_bg">#a5dce7</color>
+</resources>
